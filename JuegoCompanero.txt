@@ -1,9 +1,6 @@
-<<<<<<< HEAD
+
 #introduction juego companero
- 
  123
-=======
-#introduction juego companero  
 
 ldasdfdasadfdasf
->>>>>>> 18a9bd2e988c539ade30dbddc1dac9f58526d806
+
